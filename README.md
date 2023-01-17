@@ -13,7 +13,6 @@ I am a post graduate student in JiLin Universty with majoring in Soft Engineer. 
  
  🤔 I’m looking for help with [Github Blog Cards](https://github.com/Baymine/Github-Cards-External-Blogs).
  
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/Baymine)  <img src="https://img.shields.io/github/followers/Baymine?label=Follow" style=" float:left, margin-right:10px" />
