@@ -11,7 +11,7 @@ I am a post graduate student in JiLin Universty with majoring in Soft Engineer. 
  
  👯 I’m looking to collaborate for an app developer **Doc App**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Baymine/Github-Cards-External-Blogs).
+ 🤔 I am now looking for a job about software development and working hard to fullfill that dream.
  
 
 
