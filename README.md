@@ -1,7 +1,7 @@
 ### Hey here 👋
 
 ---
-I am a post graduate student in JiLin Universty with majoring in Soft Engineer. My intension is to explore computer science tech with the rest of my life.
+I am a postgraduate student at Jilin University majoring in Soft Engineering. I intend to explore computer science tech for the rest of my life.
  
  🔭 I’m planning for a Project **Tinny RPC**.
  
@@ -9,9 +9,9 @@ I am a post graduate student in JiLin Universty with majoring in Soft Engineer. 
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
- 👯 I’m looking to collaborate for an app developer **Doc App**.
+ 👯 I want to collaborate with an app developer **Doc App**.
  
- 🤔 I am now looking for a job about software development and working hard to fullfill that dream.
+ 🤔 I am now looking for a job in software development and working hard to fulfill that dream.
  
 
 
