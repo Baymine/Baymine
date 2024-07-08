@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T03:04:20.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="j2a9MfV2wSzrdZNIystJ" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T03:06:01.292Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_8MujMTGgVzLLSjN5Dav" version="24.6.4" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="965" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -378,9 +378,6 @@
         </mxCell>
         <mxCell id="s4C-Qvcrg3AEOylYSrUp-15" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1125" y="660" width="445" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="s4C-Qvcrg3AEOylYSrUp-16" value="单机执行规划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="s4C-Qvcrg3AEOylYSrUp-15">
-          <mxGeometry x="176" y="10" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s4C-Qvcrg3AEOylYSrUp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=110;entryDy=20;entryPerimeter=0;strokeColor=#FF3333;" edge="1" parent="1" source="s4C-Qvcrg3AEOylYSrUp-15" target="VlJD0oI-0ZpvYa75GS0W-37">
           <mxGeometry relative="1" as="geometry" />
