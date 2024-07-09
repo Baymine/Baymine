@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T02:24:36.307Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Fp7u03-VDi1ni-EmsX2q" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T08:11:41.662Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nuotdaiXRH3T-D-W6KCK" version="24.6.4" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="2537" dy="2093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -464,14 +464,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s4C-Qvcrg3AEOylYSrUp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s4C-Qvcrg3AEOylYSrUp-88" target="s4C-Qvcrg3AEOylYSrUp-20">
+        <mxCell id="s4C-Qvcrg3AEOylYSrUp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s4C-Qvcrg3AEOylYSrUp-20" target="s4C-Qvcrg3AEOylYSrUp-88">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="-530" as="sourcePoint" />
+            <mxPoint x="420" y="-530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s4C-Qvcrg3AEOylYSrUp-35" value="which replica" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s4C-Qvcrg3AEOylYSrUp-34">
           <mxGeometry x="0.2715" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="34" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s4C-Qvcrg3AEOylYSrUp-37" value="&lt;span style=&quot;font-weight: var(--base-text-weight-semibold,600); color: rgb(36, 41, 47); font-family: &amp;quot;Noto Sans&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Text&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;fragment&lt;/span&gt;&lt;span style=&quot;color: rgb(36, 41, 47); font-family: &amp;quot;Noto Sans&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Text&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;（片段）是执行查询计划的一个逻辑单元&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
