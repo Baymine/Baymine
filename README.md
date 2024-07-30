@@ -3,7 +3,7 @@
 ---
 I am a postgraduate student at Jilin University majoring in Soft Engineering. I intend to explore computer science tech for the rest of my life.
  
- 🔭 I’m planning for a Project **Tinny RPC**.
+ 🔭 I plan to learn the source code of **Doris**.
  
  🌱 I’m currently learning developer tech
  
@@ -11,7 +11,7 @@ I am a postgraduate student at Jilin University majoring in Soft Engineering. I 
  
  👯 I want to collaborate with an app developer **Doc App**.
  
- 🤔 I am now looking for a job in software development and working hard to fulfill that dream.
+ 🤔 I am currently working for a tech company.
  
 
 
